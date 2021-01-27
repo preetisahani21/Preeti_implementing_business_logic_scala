@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="Preeti_implementing_business_logic_scala,preeti_implementing_business_logic_scala" />
+  </component>
+</project>
